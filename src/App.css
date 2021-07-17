@@ -1,0 +1,31 @@
+body{
+    background-image: url('https://images.pexels.com/photos/421129/pexels-photo-421129.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box{
+    background-image: url('https://wallpaperaccess.com/full/187161.jpg');
+    width: 250px;
+    border: 2px  red;
+    padding: 25px;
+    margin-top: 3%;
+    margin-left: 7%;
+    height: 120px;
+    border-radius: 9px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    box-shadow: 5px 5px 2px white;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 0px;
+    color: white;
+}
+
+h2{
+    margin-left: 23%;
+    color: yellow;
+}
